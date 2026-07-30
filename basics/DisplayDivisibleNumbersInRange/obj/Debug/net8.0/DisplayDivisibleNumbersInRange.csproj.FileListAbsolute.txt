@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/bin/Debug/net8.0/DisplayDivisibleNumbersInRange
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/bin/Debug/net8.0/DisplayDivisibleNumbersInRange.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/bin/Debug/net8.0/DisplayDivisibleNumbersInRange.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/bin/Debug/net8.0/DisplayDivisibleNumbersInRange.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/bin/Debug/net8.0/DisplayDivisibleNumbersInRange.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/refint/DisplayDivisibleNumbersInRange.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/DisplayDivisibleNumbersInRange.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/DisplayDivisibleNumbersInRange/obj/Debug/net8.0/ref/DisplayDivisibleNumbersInRange.dll
