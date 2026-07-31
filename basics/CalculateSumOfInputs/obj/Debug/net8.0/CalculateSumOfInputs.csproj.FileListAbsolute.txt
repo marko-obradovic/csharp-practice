@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/bin/Debug/net8.0/CalculateSumOfInputs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/bin/Debug/net8.0/CalculateSumOfInputs.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/bin/Debug/net8.0/CalculateSumOfInputs.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/bin/Debug/net8.0/CalculateSumOfInputs.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/bin/Debug/net8.0/CalculateSumOfInputs.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/refint/CalculateSumOfInputs.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/CalculateSumOfInputs.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/CalculateSumOfInputs/obj/Debug/net8.0/ref/CalculateSumOfInputs.dll
