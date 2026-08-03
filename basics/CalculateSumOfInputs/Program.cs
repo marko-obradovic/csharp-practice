@@ -1,34 +1,35 @@
-﻿namespace CalculateSumOfInputs
+﻿using System;
+
+namespace CalculateSumOfInputs
 {
   class Program
   {
     static void Main(string[] args)
     {
+      int numbersSum = 0;
+
       while (true)
       {
-        var numbers = new List<int>();
+        Console.WriteLine("Type a number to add to the list, or 'ok' to exit");
+        var input = Console.ReadLine();
 
-        Console.WriteLine("Type a number, or '0' to exit");
-
-        int input = Int32.Parse(Console.ReadLine());
-
-        if (input == 0)
+        if (input.ToLower() == "ok")
         {
-          int numbersSum = 0;
-          for (int i = 0; i < 5; i++)
-          {
-            Console.WriteLine(i);
-          //  numbersSum += numbers[i];
-          }
-
           Console.WriteLine("Sum of numbers: {0}", numbersSum);
           return;
         }
 
-        Console.WriteLine(numbers.Count());
-        numbers.Add(1);
+        try
+        {
+          var numInput = Int32.Parse(input);
+          numbersSum += numInput;
+        }
+        catch
+        {
+          Console.WriteLine("{0} is not valid. Type a number to add to the list, or 'ok' to exit", input);
+          continue;
+        }
       }
-      return;
     }
   }
 }

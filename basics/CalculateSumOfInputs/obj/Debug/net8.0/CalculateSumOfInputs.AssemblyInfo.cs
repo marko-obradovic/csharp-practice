@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateSumOfInputs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304d4d667208d2216a16ebf89caa2ecc08165a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbba87be8c521aa80935ef92b67fc940d0999429")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateSumOfInputs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateSumOfInputs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
