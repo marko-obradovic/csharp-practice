@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/refint/GuessTheNumber.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/GuessTheNumber/obj/Debug/net8.0/ref/GuessTheNumber.dll

@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/bin/Debug/net8.0/FactorialBuild
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/bin/Debug/net8.0/FactorialBuild.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/bin/Debug/net8.0/FactorialBuild.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/bin/Debug/net8.0/FactorialBuild.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/bin/Debug/net8.0/FactorialBuild.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/refint/FactorialBuild.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/FactorialBuild.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FactorialBuilder/obj/Debug/net8.0/ref/FactorialBuild.dll
