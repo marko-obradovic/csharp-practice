@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/bin/Debug/net8.0/FindMaxNum
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/bin/Debug/net8.0/FindMaxNum.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/bin/Debug/net8.0/FindMaxNum.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/bin/Debug/net8.0/FindMaxNum.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/bin/Debug/net8.0/FindMaxNum.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/refint/FindMaxNum.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/FindMaxNum.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FindMaxNum/obj/Debug/net8.0/ref/FindMaxNum.dll
