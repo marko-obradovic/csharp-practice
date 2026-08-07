@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/bin/Debug/net8.0/Sandbox
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/bin/Debug/net8.0/Sandbox.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/bin/Debug/net8.0/Sandbox.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/bin/Debug/net8.0/Sandbox.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/bin/Debug/net8.0/Sandbox.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/refint/Sandbox.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/Sandbox.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Sandbox/obj/Debug/net8.0/ref/Sandbox.dll
