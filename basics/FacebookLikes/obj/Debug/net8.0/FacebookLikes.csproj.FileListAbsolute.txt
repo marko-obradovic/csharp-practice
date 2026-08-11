@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/bin/Debug/net8.0/FacebookLikes
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/bin/Debug/net8.0/FacebookLikes.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/bin/Debug/net8.0/FacebookLikes.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/bin/Debug/net8.0/FacebookLikes.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/bin/Debug/net8.0/FacebookLikes.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/refint/FacebookLikes.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/FacebookLikes.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/FacebookLikes/obj/Debug/net8.0/ref/FacebookLikes.dll

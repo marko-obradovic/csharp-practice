@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/bin/Debug/net8.0/Arrays
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/Arrays/obj/Debug/net8.0/ref/Arrays.dll
