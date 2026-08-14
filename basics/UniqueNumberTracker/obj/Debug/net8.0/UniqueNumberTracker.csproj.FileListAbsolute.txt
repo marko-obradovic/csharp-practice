@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/bin/Debug/net8.0/UniqueNumberTracker
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/bin/Debug/net8.0/UniqueNumberTracker.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/bin/Debug/net8.0/UniqueNumberTracker.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/bin/Debug/net8.0/UniqueNumberTracker.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/bin/Debug/net8.0/UniqueNumberTracker.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/refint/UniqueNumberTracker.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/UniqueNumberTracker.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/UniqueNumberTracker/obj/Debug/net8.0/ref/UniqueNumberTracker.dll

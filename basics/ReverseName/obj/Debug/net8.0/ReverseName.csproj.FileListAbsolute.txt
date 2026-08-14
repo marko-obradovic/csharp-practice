@@ -1,0 +1,15 @@
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/bin/Debug/net8.0/ReverseName
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/bin/Debug/net8.0/ReverseName.deps.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/bin/Debug/net8.0/ReverseName.runtimeconfig.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/bin/Debug/net8.0/ReverseName.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/bin/Debug/net8.0/ReverseName.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.GeneratedMSBuildEditorConfig.editorconfig
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.AssemblyInfoInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.AssemblyInfo.cs
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.csproj.CoreCompileInputs.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.sourcelink.json
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/refint/ReverseName.dll
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.pdb
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ReverseName.genruntimeconfig.cache
+/home/markoobradovic/Documents/csharp/csharp-practice/basics/ReverseName/obj/Debug/net8.0/ref/ReverseName.dll
